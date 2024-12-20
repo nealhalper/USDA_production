@@ -1,12 +1,12 @@
 # USDA_production
 
-##Motivation 
+## Motivation 
 
 I chose this project because my career path before attending Nashville Software School was in
 agriculture. Specifically, I worked at small farms/companies that grew fruits, vegetables and specialty
 crops. Since all of the companies I worked with interacted with the USDA, I wanted to leverage their data colllection to gain insight on the scale at which the majority of the produce in the United States is grown. 
 
-##Questions: 
+## Questions: 
     1. For all farm commodity sales, which income brackets sell the most goods? 
     2. Are the farms bringing in the most money also the largest farms? 
     3. What organization types are reperesented in production of fruit and vegetables?
@@ -14,12 +14,12 @@ crops. Since all of the companies I worked with interacted with the USDA, I want
     5. How do different organization types rank in terms of land operated? Has this changed over the past 10 years?
     6. Are there certain states in the USA that are dominated by corporate, partnership, or family & individually owned fruit and vegetable farms?    
 
-##Technologies Used
+## Technologies Used
     1. Python/Pandas - used for data exploration, cleaning, exporting to tableau and generating visualizations
     2. Tableau - used for creating State level maps to show the distribution of farms and states with the most farms per 100 sq miles 
     3. Canva - project presentation
 
-##Data Sources
+## Data Sources
 https://quickstats.nass.usda.gov/
     1. Census (Program) -> Economics (Sector) -> Income (Group) -> Commodity Totals (Commodity) -> State (Geographic Level)
     2. Census (Program) -> Demographics (Sector) -> Vegetable Totals (Commodity) -> State (Geographic Level)
@@ -27,6 +27,6 @@ https://quickstats.nass.usda.gov/
     4. Census (Program) -> Demographics (Sector) -> Citrus Totals (Commodity) -> State (Geographic Level) 
 https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_area
 
-##Conclusion
+## Conclusion
 
 
