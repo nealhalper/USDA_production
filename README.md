@@ -1,12 +1,14 @@
 # USDA_production
 
-## Motivation 
+## Motivation </br>
 
-I chose this project because my career path before attending Nashville Software School was in
-agriculture. Specifically, I worked at small farms/companies that grew fruits, vegetables and specialty
-crops. Since all of the companies I worked with interacted with the USDA, I wanted to leverage their data colllection to gain insight on the scale at which the majority of the produce in the United States is grown. 
+I chose this project because my career path before attending Nashville Software School was in </br>
+agriculture. Specifically, I worked at small farms/companies that grew fruits, vegetables and specialty </br>
+crops. Since all of the companies I worked with interacted with the USDA, I wanted to leverage their </br>
+data colllection to gain insight on the scale at which the majority of the produce in the United States is grown. 
 
-## Questions: 
+## Questions: </br>
+
     1. For all farm commodity sales, which income brackets sell the most goods? 
     2. Are the farms bringing in the most money also the largest farms? 
     3. What organization types are reperesented in production of fruit and vegetables?
@@ -15,6 +17,7 @@ crops. Since all of the companies I worked with interacted with the USDA, I want
     6. Are there certain states in the USA that are dominated by corporate, partnership, or family & individually owned fruit and vegetable farms?    
 
 ## Technologies Used
+
     1. Python/Pandas - used for data exploration, cleaning, exporting to tableau and generating visualizations
     2. Tableau - used for creating State level maps to show the distribution of farms and states with the most farms per 100 sq miles 
     3. Canva - project presentation
