@@ -1,13 +1,13 @@
 # USDA_production
 
-## Motivation </br>
+## Motivation
 
 I chose this project because my career path before attending Nashville Software School was in </br>
 agriculture. Specifically, I worked at small farms/companies that grew fruits, vegetables and specialty </br>
 crops. Since all of the companies I worked with interacted with the USDA, I wanted to leverage their </br>
 data colllection to gain insight on the scale at which the majority of the produce in the United States is grown. 
 
-## Questions: </br>
+## Questions </br>
 
     1. For all farm commodity sales, which income brackets sell the most goods? 
     2. Are the farms bringing in the most money also the largest farms? 
@@ -23,12 +23,12 @@ data colllection to gain insight on the scale at which the majority of the produ
     3. Canva - project presentation
 
 ## Data Sources
-https://quickstats.nass.usda.gov/
-    1. Census (Program) -> Economics (Sector) -> Income (Group) -> Commodity Totals (Commodity) -> State (Geographic Level)
-    2. Census (Program) -> Demographics (Sector) -> Vegetable Totals (Commodity) -> State (Geographic Level)
-    3. Census (Program) -> Demographics (Sector) -> Berry Totals (Commodity) -> State (Geographic Level)
-    4. Census (Program) -> Demographics (Sector) -> Citrus Totals (Commodity) -> State (Geographic Level) 
-https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_area
+https://quickstats.nass.usda.gov/ </br>
+    1. Census (Program) -> Economics (Sector) -> Income (Group) -> Commodity Totals (Commodity) -> State (Geographic Level) </br>
+    2. Census (Program) -> Demographics (Sector) -> Vegetable Totals (Commodity) -> State (Geographic Level) </br>
+    3. Census (Program) -> Demographics (Sector) -> Berry Totals (Commodity) -> State (Geographic Level) </br>
+    4. Census (Program) -> Demographics (Sector) -> Citrus Totals (Commodity) -> State (Geographic Level) </br>
+https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_area</br>
 
 ## Conclusion
 
