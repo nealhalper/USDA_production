@@ -4,7 +4,7 @@
 Link: [https://www.canva.com/design/DAGZen89edQ/epyagQ9bqRyFCcXAO3sxdQ/edit?utm_content=DAGZen89edQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 
 ## Tableau Dashboard
-Link:
+Link: [https://public.tableau.com/authoring/DistributionofProduceOperationsintheUnitedStates/Story1#1]
 
 ## Table of Contents
 * [Canva Presentation](#canva-presentation)
