@@ -30,7 +30,9 @@ data colllection to gain insight on the scale at which the majority of the produ
 3) What organization types are reperesented in production of fruit and vegetables?
 4) How many fruit and vegetable farms are corporate, partnerships, research/institution based, or family & individual owned? 
 5) How do different organization types rank in terms of land operated? Has this changed over the past 10 years?
-6) Are there certain states in the USA that are dominated by corporate, partnership, or family & individually owned fruit and vegetable farms?    
+6) Are there certain states in the USA that are dominated by corporate, partnership, or family & individually owned fruit and vegetable farms?
+
+## Problems and Hurdles
 
 ## Technologies Used
 
@@ -50,4 +52,4 @@ https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_area </br>
 
 ## Conclusion
 
-
+For all farm commoditities, the bulk of the market share is held by large farms with above $500,000 in income. However, between the years 2012-2022 there is trend of growth for smaller farms. Compared to partnerships or family/individually owned farms, corporate producers are experiencing more growth in terms of acreage in production, the number of corporate operations and total sales. The average number of family and individual farms per 100 square miles by state is higher in most of the United States when compared to the same parameters for corporate farms. However, the disparity in production acreage suggests that while the number of corporate farms is smaller they operate more land.   
