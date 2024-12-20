@@ -2,9 +2,9 @@
 
 ## Motivation
 
-I chose this project because my career path before attending Nashville Software School was in </br>
-agriculture. Specifically, I worked at small farms/companies that grew fruits, vegetables and specialty </br>
-crops. Since all of the companies I worked with interacted with the USDA, I wanted to leverage their </br>
+I chose this project because my career path before attending Nashville Software School was in
+agriculture. Specifically, I worked at small farms/companies that grew fruits, vegetables and specialty
+crops. Since all of the companies I worked with interacted with the USDA, I wanted to leverage their 
 data colllection to gain insight on the scale at which the majority of the produce in the United States is grown. 
 
 ## Questions </br>
